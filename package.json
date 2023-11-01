@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/AnzhelikaBcn/qa_auto_2.4/issues"
   },
-  "homepage": "https://github.com/AnzhelikaBcn/qa_auto_2.4#readme"
+  "homepage": "https://github.com/AnzhelikaBcn/qa_auto_2.4#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
